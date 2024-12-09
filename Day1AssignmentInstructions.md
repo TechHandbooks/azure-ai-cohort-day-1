@@ -50,4 +50,4 @@ For each AI application, include:
 
 #### Step 3: Share the Repository Link
 1. Copy the repository URL (e.g., https://github.com/YourUsername/AI-in-Daily-Life).
-2. Share this link in the Microsoft form shared
+2. Share this link in the Microsoft form [Here](https://forms.office.com/r/MwtiC6U7Ju?origin=lprLink)
